@@ -1,5 +1,3 @@
-
-# this Code about how play with cimputer chooes Number Gusst Number Buttwen 0 to 20 
 #This File about practecal  use class and function and looping 
 import random
 class RnadomNumber:
@@ -14,7 +12,43 @@ class RnadomNumber:
             print ("good lock ")
         else:
             print("Sorry your wrong Number try agin ")
+            
+            
+    def singup(self,d):
+        print(d)
+            
+class formating:
+    def format(self):
+        print("--------------------")
+
+
+'''this class ingitice from tow class and you can call any function inside all class inhierts '''            
+class opration(formating,RnadomNumber):
+    def addnumber(self,x,y):
+        print (x+y)
+    def apstrac(self,x,y):
+        print (x*y)
+    def pusls(self,x,y):
+        print (x/y)
+    def Modfun(self,x,y):
+        print (int(x)%int(y))
+    
+
+        
         
         
 c1=RnadomNumber()
 c1.Qusttnumber()
+
+oneclass=opration()
+oneclass.addnumber(3,4)
+oneclass.format()
+oneclass.apstrac(5,6)
+oneclass.format()
+oneclass.pusls(4,5)
+oneclass.format()
+oneclass.Modfun(12,5)
+
+c2=opration()
+c2.singup("this my name obeid thanks !!!!!!!!!!")
+
