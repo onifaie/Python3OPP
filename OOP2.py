@@ -1,3 +1,5 @@
+
+# this Code about how play with cimputer chooes Number Gusst Number Buttwen 0 to 20 
 #This File about practecal  use class and function and looping 
 import random
 class RnadomNumber:
