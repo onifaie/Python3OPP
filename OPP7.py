@@ -12,5 +12,10 @@ class A:
 
 d=A("Saleh",99)
 d.myfun("obeid",66)
+
+'''this comment about how do this code working 
+Obeid can be doing your programming and fix your code 
+work on Data anlaysis 
+'''
         
     
