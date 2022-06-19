@@ -12,11 +12,6 @@ while  True:
        
         choice = int(input("Enter choice (1/2/3/4): "))
        
-            
-            
-       
-       
-      
         if choice == 1:
             resulte = number1 + number2
             print(f"{number1} + {number2} = {resulte}")
