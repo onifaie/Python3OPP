@@ -15,4 +15,3 @@ class myclass:
 c1=myclass()
 c1.muiltable(5,10,1,11)
 
-![obeid!](app.png)
