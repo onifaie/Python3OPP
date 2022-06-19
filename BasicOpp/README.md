@@ -1,6 +1,6 @@
 
 
-##let me tell you about how it's work and what's the steps you shpuld be do 
+## **let me tell you about how it's work and what's the steps you shpuld be do 
 + install python and keep the path cheak box 
 + create new file extantion py  and write your code like in side image 
 + run the file and show the result inside termnal screen 
