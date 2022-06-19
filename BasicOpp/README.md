@@ -6,5 +6,6 @@
 + run the file and show the result inside termnal screen 
 
 ## ** this screenshot about how to use List and Fuction with python  Basic Python level 
+** this first steps to do your code clear and you can reuse it 
 
 ![how to use list and function](https://user-images.githubusercontent.com/31520330/174503806-722c4679-608e-4ec7-9ac3-38841a5a1649.PNG)
