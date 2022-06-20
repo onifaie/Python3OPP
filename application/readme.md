@@ -40,3 +40,7 @@ this screenshot about how use this code
 ###visit my website  
 
 https://obeid.pro
+
+##### visit my linked 
+
+https://www.linkedin.com/in/obeid-alotibi-02439b173/
