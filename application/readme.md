@@ -23,6 +23,7 @@ this screenshot about how use this code
 
 ### this my video chanel on youtube  you can see more about this 
 
+<<<<<<< HEAD
 [![Gams!](../images/fullapp.PNG)](https://www.youtube.com/watch?v=Jj3hQENh4Fo)
 
 ### this screenshot for quess Number or thinking 
@@ -37,3 +38,6 @@ this screenshot about how use this code
 ![quess!](../images/thinkingNumber.PNG)
 ###visit my website  
 https://obeid.pro
+=======
+[![Gams!](../images/fullapp.PNG)](https://www.youtube.com/watch?v=BHTN81u0vhg&t=249s)
+>>>>>>> 1be8cf9311fa69c8460f3f7c945b9bbc8062e8c9
