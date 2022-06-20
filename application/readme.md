@@ -20,3 +20,7 @@ this screenshot about how use this code
 ![Gams!](../images/fullapp.PNG)
 
 ![python!](https://i.morioh.com/210225/9e958e1e.webp)
+
+### this my video chanel on youtube  you can see more about this 
+
+[![Gams!](../images/fullapp.PNG)](https://www.youtube.com/watch?v=Jj3hQENh4Fo)
