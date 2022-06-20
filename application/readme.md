@@ -1,10 +1,11 @@
 
-### ** this image about  code and result  file number OOP10
-### ** here many skills  benifts  is 
-+ ** use the file python syntix 
-+ ** save file and open it 
-+** write the code  clear 
-+ ** use Class and Fuction 
+### ** this list of my application  practice of python OOP 
++ ### class and Function 
++ ### for loop 
++ ### if statment 
++ ### use range and input and many labrariy inside python 
+
+
 
 ![obeid!](images/test.PNG)
 
