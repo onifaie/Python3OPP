@@ -15,5 +15,8 @@ this screenshot about how use this code
 ### ** this full application  about use  tow gams 
 + play chooes  Number to  make table 
 + count of words 
++ 
 
 ![Gams!](../images/fullapp.PNG)
+
+![python!](https://i.morioh.com/210225/9e958e1e.webp)
