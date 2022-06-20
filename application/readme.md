@@ -24,3 +24,16 @@ this screenshot about how use this code
 ### this my video chanel on youtube  you can see more about this 
 
 [![Gams!](../images/fullapp.PNG)](https://www.youtube.com/watch?v=Jj3hQENh4Fo)
+
+### this screenshot for quess Number or thinking 
+## i use many things for this application like :- 
++ Class and Function 
++ for loop 
++ if statment 
++ def function initilaze
++ input and tranfer to int  
+  
+
+![quess!](../images/thinkingNumber.PNG)
+###visit my website  
+https://obeid.pro
