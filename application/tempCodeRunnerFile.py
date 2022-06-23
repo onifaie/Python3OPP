@@ -1,5 +1,4 @@
-    def __init__(self):
-            secritNumber=random.randint(1,3)
-            self.fun()
-            
-   
+                
+c1=mmyclass()
+c1.muiltable(5,10,1,11)
+

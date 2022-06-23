@@ -1,4 +1,4 @@
-class myclass:
+class mmyclass:
     def muiltable(self,start,end,fr,st):
         start=int(input("enter the start no "))
         end =int(input("Enter the End No "))
@@ -12,6 +12,6 @@ class myclass:
             print("==================")
 
                 
-c1=myclass()
+c1=mmyclass()
 c1.muiltable(5,10,1,11)
 
